@@ -21,7 +21,7 @@ School of Biological Sciences, University of Bristol
 
 2028
 : Ph.D. Bee Behaviour, Ecology and Conservation. University of Bristol
-  Dissertation: *Quantifying the impacts of multiple anthropogenic stressors on bumblebee health*
+: Dissertation: *Quantifying the impacts of multiple anthropogenic stressors on bumblebee health*
 {: .entry}
 
 2024
