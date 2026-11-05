@@ -20,16 +20,16 @@ School of Biological Sciences, University of Bristol
 ## Education
 
 2028
-: Ph.D. Bee Behaviour, Ecology and Conservation. University of Bristol.
+: Ph.D. Bee Behaviour, Ecology and Conservation. University of Bristol
   Dissertation: *Quantifying the impacts of multiple anthropogenic stressors on bumblebee health*
 {: .entry}
 
 2024
-: MRes. Biological Sciences, University of Bristol.
+: MRes. Biological Sciences, University of Bristol
 {: .entry}
 
 2023
-: MSci. Biological Sciences, University of Bristol.
+: MSci. Biological Sciences, University of Bristol
 {: .entry}
 
 ## Peer reviewed publications
@@ -126,7 +126,7 @@ Volunteer – Insect Day stall, Life Sciences Building, University of Bristol [S
 **Mallinson, V.**, Bouic, A-G., Body, Z., Comont, R., Grüter, C., Siviter, H. 2025. Quantifying the impacts of cold snaps on bumblebee colonies. British Ecological Society. Edinburgh, United Kingdom. (Poster).
 {: .pub}
 
-**Mallinson, V.**, Woodburn, F.A., O'Reilly, L. J. 2024. Weak anthropogenic electric fields affect honeybee foraging. IUSSI NW European Section Meeting 2024. London, United Kingdom. (Poster).
+**Mallinson, V.**, Woodburn, F.A., O'Reilly, L.J. 2024. Weak anthropogenic electric fields affect honeybee foraging. IUSSI NW European Section Meeting 2024. London, United Kingdom. (Poster).
 {: .pub}
 
 ## References
