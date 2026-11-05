@@ -6,201 +6,128 @@ title: Victoria Mallinson — CV
 # Victoria Mallinson
 {: .name}
 
-Your Current Title / Program Here
+PhD Student in Bumblebee Research
 {: .tagline}
 
-Your Department, University or Organization
+School of Biological Sciences, University of Bristol
 {: .affiliation}
 
-[torimallinson27@gmail.com](mailto:torimallinson27@gmail.com) • [github.com/your-username](https://github.com/your-username) • [your-website.com](https://your-website.com)
+[victoria.j.mallinson@gmail.com](mailto:victoria.j.mallinson@gmail.com) • [victoriamallinson.co.uk](https://victoriamallinson.co.uk)
 {: .contact}
 
 ---
 
-## Currently
-
-*Replace this with one or two lines describing your current role — delete this hint when done.*
-{: .hint}
-
-- Current position, department/organization, institution [start year – present]
-
 ## Education
 
-*List your degrees, most recent first. Delete this hint and the example row.*
-{: .hint}
+2028
+: Ph.D. Bee Behaviour, Ecology and Conservation. University of Bristol.
+  Dissertation: *Quantifying the impacts of multiple anthropogenic stressors on bumblebee health*
+{: .entry}
+
+2024
+: MRes. Biological Sciences, University of Bristol.
+{: .entry}
+
+2023
+: MSci. Biological Sciences, University of Bristol.
+{: .entry}
+
+## Peer reviewed publications
+
+**Mallinson, V.J.**, Woodburn, F.A., and O’Reilly, L.J. (2025). Weak anthropogenic electric fields affect honeybee foraging. iScience 28, 112550. https://doi.org/10.1016/j.isci.2025.112550.
+{: .pub}
+
+## Publications in preperation
+
+**Mallinson, V.J.**, Comont, R., Grüter, C., and Siviter, H. (in prep) BumbleScale: An automated system for continuous, individual-level tracking of foraging bumblebees.
+{: .pub}
+
+**Mallinson, V.J.**, Bouic, A-G., Body, Z., Comont, R., Grüter, C., and Siviter, H. (in prep) Quantifying the impacts of extreme cold snaps on bumblebee colony health and foraging. 
+{: .pub}
+
+**Mallinson, V.J.**, O’Reilly, L.J., and Robert, D. (in prep) Electrostatic interactions in pollination: Charge dynamics in anthers and petals.
+{: .pub}
+
+## Awards and other funding
 
 2026
-: Ph.D. Your Field, Your University
-  Dissertation: *Working title of your dissertation.*
+: Olivia Norfolk Poster Prize, British Ecological Society (£250)
 {: .entry}
 
-20XX
-: M.S./M.A. Your Field, Your University
+2025
+: Inclusivity Award, School of Biological Sciences University of Bristol
 {: .entry}
 
-20XX
-: B.S./B.A. Your Field, Your University, with honours / distinctions if any
+2024
+: Highly Commended Poster Award, IUSSI NW European Section Meeting 2024
 {: .entry}
 
-## Research experience
+2022
+: RESURG Project, University of Bristol (£2000)
+{: .entry}
 
-*List research positions, most recent first, in the form "Role – Lab/Organization [dates]". Delete this hint.*
-{: .hint}
+## Teaching and other appointments
 
-Research Assistant – Dr. Name's Laboratory, University [Season Year – Season Year]
+Laboratory Demonstrator – University of Bristol [Autumn 2026-Summer 2027]
 {: .appt}
 
-Research Associate – Department, Institution [Season Year – Present]
+Teaching Assistant – University of Bristol, PGR Tutor for undergraduates [Autumn 2025 - Spring 2026]
 {: .appt}
 
-## Teaching experience
-
-*Same format as above. Delete this hint.*
-{: .hint}
-
-Teaching Assistant – University, Course Name [Season Year]
+Teaching Assistant – University of Bristol, Professional Development Interviews [Winter 2025]
 {: .appt}
 
-Teaching Assistant – University, Course Name [Season Year – Season Year]
+Laboratory Demonstrator – University of Bristol [Autumn 2025-Summer 2026]
 {: .appt}
 
-## Papers
+Teaching Assistant – University of Bristol, Lead Marker [Spring 2025]
+{: .appt}
 
-*Full citations, most recent first. Bold your own name in each. Delete this hint.*
-{: .hint}
+Teaching Assistant – University of Bristol, Professional Development Interviews [Winter 2024]
+{: .appt}
 
-**Your Last Name, F.**, Co-author, A., & Co-author, B. (Year). Title of the paper. *Journal Name*, Volume(Issue), pages. https://doi.org/xxxxx
-{: .pub}
+Laboratory Demonstrator – University of Bristol [Autumn 2024-Summer 2025]
+{: .appt}
 
-Co-author, A., **Your Last Name, F.**, & Co-author, B. (Year). Title of another paper. *Journal Name*, Volume, pages.
-{: .pub}
+Laboratory Demonstrator – University of Bristol [Autumn 2023-Summer 2024]
+{: .appt}
 
-## Grants
+Research Assistant – Sensory Biophysics Lab, University of Bristol [Autumn 2022-Winter 2022]
+{: .appt}
 
-*List funded grants/fellowships with amount and a one-line description. Delete this hint.*
-{: .hint}
+## Volunteering & Outreach
 
-Name of Grant or Fellowship — $0,000
-{: .grant-title}
+Coordinator – Women in STEM Network, Faculty of Life Sciences, University of Bristol [Autumn 2024 - Present]
+{: .appt}
 
-One-line description of the funded project.
-{: .grant-desc}
+Organiser – Coordinated bees for ITV documentary filming, University of Bristol [Summer 2026]
+{: .appt}
 
-Name of Another Award — $0,000
-{: .grant-title}
+Volunteer – Insect Day stall, Life Sciences Building, University of Bristol [Summer 2026]
+{: .appt}
 
-One-line description of the funded project.
-{: .grant-desc}
+Organiser & Session Chair – Social events and talk session, ASAB Spring Conference, University of Bristol [Spring 2026]
+{: .appt}
 
-## Awards
+Volunteer – Pollination Festival stall, Botanic Gardens, Bristol [Autumn 2025]
+{: .appt}
 
-*Most recent first. Delete this hint.*
-{: .hint}
-
-20XX
-: Name of award or scholarship, Institution ($0,000)
-{: .entry}
-
-20XX
-: Name of award or scholarship, Institution
-{: .entry}
+Volunteer – Insect Day stall, Life Sciences Building, University of Bristol [Summer 2025]
+{: .appt}
 
 ## Presentations
 
-*Split into Invited and Submitted (or Contributed) talks. Delete this hint and the example rows.*
-{: .hint}
-
-### Invited
-
-**Your Last Name, F.** Year. Title of invited talk. Venue/Series, Location. (Invited Talk).
+**Mallinson, V.**, Bouic, A-G., Body, Z., Comont, R., Grüter, C., Siviter, H. 2026. Quantifying the impacts of cold snaps on bumblebee colonies. XX. International Congress of the International Union for the Study of Social Insects. Freiburg, Germany. (Talk).
 {: .pub}
 
-### Submitted
-
-**Your Last Name, F.**, Co-author, A. Year. Title of presentation. Conference Name, Location. (Paper/Poster Presentation).
+**Mallinson, V.**, Bouic, A-G., Body, Z., Comont, R., Grüter, C., Siviter, H. 2026. Quantifying the impacts of cold snaps on bumblebee colonies. ASAB Spring. Bristol, United Kingdom. (Talk).
 {: .pub}
 
-## Outreach
-
-*Volunteering and public-engagement activities, in the form "Role – Activity [dates]". Delete this hint.*
-{: .hint}
-
-Volunteer – Name of outreach activity, Organization [Season Year]
-{: .appt}
-
-Organizer – Name of event or program [Season Year – Present]
-{: .appt}
-
-## Involvement
-
-*Group entries under the organizations you've been involved with. Delete this hint.*
-{: .hint}
-
-### Your University
-
-Representative – Student Representative to Departmental Faculty [Year – Present]
-{: .appt}
-
-Secretary – Graduate Student Association [Year – Year]
-{: .appt}
-
-### Professional involvement
-
-Vice President – Name of Professional Group [Year – Present]
-{: .appt}
-
-## Mentoring
-
-*Students/mentees supervised, in the form "Name, Role/Project [dates]". Delete this hint.*
-{: .hint}
-
-Mentee Name, Undergraduate Research Assistant, Project Title [Season Year – Season Year]
-{: .appt}
-
-## Media
-
-*Press coverage, podcasts, interviews, in citation style. Delete this hint.*
-{: .hint}
-
-Outlet Name. (Year). *Title of the piece or segment.* Link or description.
+**Mallinson, V.**, Bouic, A-G., Body, Z., Comont, R., Grüter, C., Siviter, H. 2025. Quantifying the impacts of cold snaps on bumblebee colonies. British Ecological Society. Edinburgh, United Kingdom. (Poster).
 {: .pub}
 
-## Technical skills and languages
-
-*Short phrases work best — this list renders in columns. Delete this hint and the example items.*
-{: .hint}
-
-- Skill or software one
-- Skill or software two
-- Skill or software three
-- Programming language one
-- Programming language two
-- Spoken language — fluency level
-{: .columns}
-
-## Areas of experience
-
-*Delete this hint and the example items.*
-{: .hint}
-
-- Area of experience one
-- Area of experience two
-- Area of experience three
-- Area of experience four
-{: .columns}
-
-## Projects
-
-*Personal or side projects, each with a short description and optional link. Delete this hint.*
-{: .hint}
-
-### Project Name
-
-One or two sentences describing the project and your role in it. [Link](https://example.com)
-
-### Another Project Name
-
-One or two sentences describing the project and your role in it.
+**Mallinson, V.**, Woodburn, F.A., O'Reilly, L. J. 2024. Weak anthropogenic electric fields affect honeybee foraging. IUSSI NW European Section Meeting 2024. London, United Kingdom. (Poster).
+{: .pub}
 
 ## References
 
