@@ -1,0 +1,102 @@
+@page {
+  margin: 1.4cm;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #000;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.4;
+}
+
+#print-btn { display: none; }
+
+.cv {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.cv > h1:first-of-type {
+  text-align: center;
+  font-size: 18pt;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.2rem;
+}
+
+p.tagline, p.affiliation, p.contact {
+  text-align: center;
+  margin: 0.1rem 0;
+}
+
+p.contact a { color: #000; text-decoration: none; }
+
+.cv > hr:first-of-type {
+  border: none;
+  border-top: 1.5pt solid #000;
+  margin: 0.8rem 0 1.2rem;
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 10.5pt;
+  border-bottom: 0.75pt solid #999;
+  margin: 1.4rem 0 0.7rem;
+  padding-bottom: 0.2rem;
+  page-break-after: avoid;
+}
+
+.cv > h2:first-of-type { margin-top: 0; }
+
+h3 {
+  font-size: 10pt;
+  margin: 0.9rem 0 0.4rem;
+  page-break-after: avoid;
+}
+
+/* Authoring hints never print */
+p.hint, li.hint { display: none; }
+
+dl.entry {
+  margin: 0 0 0.6rem;
+  overflow: hidden;
+  page-break-inside: avoid;
+}
+
+dl.entry dt {
+  float: left;
+  width: 70px;
+  font-weight: 600;
+}
+
+dl.entry dd { margin: 0 0 0.1rem 70px; }
+
+p.pub {
+  margin: 0 0 0.5rem;
+  padding-left: 1.6em;
+  text-indent: -1.6em;
+  page-break-inside: avoid;
+}
+
+p.appt, li.appt { margin: 0 0 0.35rem; page-break-inside: avoid; }
+
+p.grant-title { margin: 0 0 0.1rem; font-weight: 700; text-decoration: underline; page-break-after: avoid; }
+p.grant-desc { margin: 0 0 0.6rem; }
+
+ul.columns {
+  column-count: 3;
+  column-gap: 1.5rem;
+  padding-left: 1rem;
+  margin: 0;
+}
+
+a { color: #000; }

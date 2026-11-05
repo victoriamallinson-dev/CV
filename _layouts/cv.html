@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/cv-screen.css' | relative_url }}" media="screen">
+  <link rel="stylesheet" href="{{ '/assets/css/cv-print.css' | relative_url }}" media="print">
+</head>
+<body>
+  <button id="print-btn" onclick="window.print()" title="Print or save as PDF">Print / Save as PDF</button>
+  <main class="cv">
+    {{ content }}
+  </main>
+</body>
+</html>

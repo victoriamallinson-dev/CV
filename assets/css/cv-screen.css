@@ -1,0 +1,218 @@
+:root {
+  --accent: #2c5f7c;
+  --accent-dark: #1d4356;
+  --text: #2a2a2a;
+  --muted: #767676;
+  --rule: #d8d8d8;
+  --bg: #ffffff;
+  --date-col: 92px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 2.5rem 1rem 4rem;
+  background: #f4f6f7;
+  color: var(--text);
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+.cv {
+  max-width: 800px;
+  margin: 0 auto;
+  background: var(--bg);
+  padding: 3rem 3.5rem 3.5rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+}
+
+/* Header */
+
+.cv > h1:first-of-type {
+  margin: 0 0 0.25rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+p.tagline,
+p.affiliation {
+  text-align: center;
+  margin: 0.1rem 0;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+p.affiliation {
+  color: var(--muted);
+  font-weight: 400;
+}
+
+p.contact {
+  text-align: center;
+  margin: 0.9rem 0 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+p.contact a {
+  color: var(--accent-dark);
+  text-decoration: none;
+}
+
+p.contact a:hover { text-decoration: underline; }
+
+.cv > hr:first-of-type {
+  margin: 1.5rem 0 2rem;
+  border: none;
+  border-top: 2px solid var(--text);
+}
+
+/* Section headings */
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin: 2.5rem 0 1.25rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.cv > h2:first-of-type { margin-top: 0; }
+
+h3 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  margin: 1.5rem 0 0.75rem;
+}
+
+/* Hint text — authoring guidance, delete freely once filled in */
+
+p.hint, li.hint {
+  color: #b23b3b;
+  font-style: italic;
+  font-size: 0.85rem;
+  background: #fdf3f3;
+  border-left: 3px solid #e2a3a3;
+  padding: 0.4rem 0.7rem;
+  margin: 0 0 0.9rem;
+}
+
+/* Date + content entries (education, awards, grants) */
+
+dl.entry {
+  margin: 0 0 1.1rem;
+  overflow: hidden;
+}
+
+dl.entry dt {
+  float: left;
+  width: var(--date-col);
+  font-weight: 600;
+  color: var(--accent-dark);
+}
+
+dl.entry dd {
+  margin: 0 0 0.2rem var(--date-col);
+}
+
+dl.entry dd:last-child { margin-bottom: 0; }
+
+/* Hanging-indent citation style (papers, presentations, media) */
+
+p.pub {
+  margin: 0 0 0.9rem;
+  padding-left: 1.8em;
+  text-indent: -1.8em;
+}
+
+p.pub strong { color: var(--text); }
+
+/* Grant / fellowship title + description */
+
+p.grant-title {
+  margin: 0 0 0.2rem;
+  font-weight: 700;
+  text-decoration: underline;
+  color: var(--text);
+}
+
+p.grant-desc {
+  margin: 0 0 1rem;
+}
+
+/* Simple role/appointment lines (research & teaching experience, outreach, mentoring, involvement) */
+
+p.appt, li.appt {
+  margin: 0 0 0.6rem;
+}
+
+ul.plain {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.plain li {
+  margin: 0 0 0.6rem;
+}
+
+/* Multi-column skill / interest lists */
+
+ul.columns {
+  column-count: 2;
+  column-gap: 2.5rem;
+  list-style: disc;
+  padding-left: 1.2rem;
+  margin: 0;
+}
+
+ul.columns li { break-inside: avoid; margin-bottom: 0.4rem; }
+
+@media (max-width: 480px) {
+  ul.columns { column-count: 1; }
+}
+
+/* Links */
+
+a { color: var(--accent-dark); }
+
+/* Print button */
+
+#print-btn {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+  padding: 0.5rem 1rem;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+#print-btn:hover { background: var(--accent-dark); }
+
+@media (max-width: 700px) {
+  body { padding: 1rem 0 3rem; }
+  .cv { padding: 1.75rem 1.25rem; border-radius: 0; }
+  .cv > h1:first-of-type { font-size: 1.5rem; }
+  dl.entry dt { float: none; width: auto; display: block; }
+  dl.entry dd { margin-left: 0; }
+  ul.columns { column-count: 1; }
+  #print-btn { top: 0.5rem; right: 0.5rem; font-size: 0.75rem; padding: 0.4rem 0.7rem; }
+}

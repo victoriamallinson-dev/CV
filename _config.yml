@@ -1,0 +1,12 @@
+title: Victoria Mallinson — CV
+description: Academic curriculum vitae
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
