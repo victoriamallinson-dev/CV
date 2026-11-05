@@ -68,7 +68,7 @@ School of Biological Sciences, University of Bristol
 
 ## Teaching and other appointments
 
-Laboratory Demonstrator – University of Bristol [Autumn 2026-Summer 2027]
+Laboratory Demonstrator – University of Bristol [Autumn 2026 - Summer 2027]
 {: .appt}
 
 Teaching Assistant – University of Bristol, PGR Tutor for undergraduates [Autumn 2025 - Spring 2026]
@@ -77,7 +77,7 @@ Teaching Assistant – University of Bristol, PGR Tutor for undergraduates [Autu
 Teaching Assistant – University of Bristol, Professional Development Interviews [Winter 2025]
 {: .appt}
 
-Laboratory Demonstrator – University of Bristol [Autumn 2025-Summer 2026]
+Laboratory Demonstrator – University of Bristol [Autumn 2025 - Summer 2026]
 {: .appt}
 
 Teaching Assistant – University of Bristol, Lead Marker [Spring 2025]
@@ -86,13 +86,13 @@ Teaching Assistant – University of Bristol, Lead Marker [Spring 2025]
 Teaching Assistant – University of Bristol, Professional Development Interviews [Winter 2024]
 {: .appt}
 
-Laboratory Demonstrator – University of Bristol [Autumn 2024-Summer 2025]
+Laboratory Demonstrator – University of Bristol [Autumn 2024 - Summer 2025]
 {: .appt}
 
-Laboratory Demonstrator – University of Bristol [Autumn 2023-Summer 2024]
+Laboratory Demonstrator – University of Bristol [Autumn 2023 - Summer 2024]
 {: .appt}
 
-Research Assistant – Sensory Biophysics Lab, University of Bristol [Autumn 2022-Winter 2022]
+Research Assistant – Sensory Biophysics Lab, University of Bristol [Autumn 2022 - Winter 2022]
 {: .appt}
 
 ## Volunteering & Outreach
